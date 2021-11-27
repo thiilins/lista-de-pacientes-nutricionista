@@ -1,2 +1,2 @@
 ﻿# lista-de-pacientes-nutricionista
-https://td-pacientes-nutricionista.surge.sh
+https://tgbr.site/nutricionista_lista
