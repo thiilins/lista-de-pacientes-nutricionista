@@ -1,2 +1,2 @@
 ﻿# lista-de-pacientes-nutricionista
-https://tgbr.site/nutricionista_lista
+https://tgpro.site/nutricionista_lista
